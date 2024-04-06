@@ -1,6 +1,7 @@
 ### 가상 팝업 스토어 안내 웹사이트
 
 React
+- 가상으로 톰보이 브랜드 팝업의 컨셉,위치,상품,예약을 안내하는 웹사이트
 
 ---
 
@@ -24,9 +25,3 @@ React
 
 ---
 
-
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
