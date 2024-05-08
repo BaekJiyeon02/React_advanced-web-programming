@@ -1,0 +1,190 @@
+[
+    {
+        "KoMenu": [
+            {
+                "title": "팝업컨셉",
+                "id":1,
+                "concept": {
+                    "one": {
+                        "src": "https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/SPP3JBQ26ND4LOP7V63VXQ7WNQ.jpg",
+                        "title": "BOY MEETS TOMBOY",
+                        "content": "스튜디오 톰보이 맨 X 잔나비 최정훈\n\n독보적인 보이스로 뜨거운 청춘을 노래하는 최정훈이 톰보이맨의 뮤즈가 되어 스타일의 경계와 정의를 허무는 자유로운 감성의 스타일링을 선보입니다.\n\n\n한 편의 발라드와 같은 톰보이맨 with 최정훈의 ’22 F/W 컬렉션을 만나보세요.\n\n최정훈과 함께한 이번 23 S/S 캠페인은 비틀즈의 곡 제목 ‘Here, there and everywhere’을 타이틀로 이곳, 그곳, 모든 곳에 존재하는 봄에 대한 이야기를 담아냈습니다.\n\n다각적인 매력을 가진 최정훈은 스튜디오 톰보이 맨의 다양한 아이템을 봄의 나른하고 릴렉싱 된 무드로 표현했습니다."
+                    },
+                    "two": {
+                        "src": "https://i.ytimg.com/vi/kwdRGTWzsaI/hqdefault.jpg",
+                        "title": "STUDIO TOMBOY X ALEX DODGE",
+                        "content": "뉴욕의 떠오르는 작가 ‘ALEX DODGE’와 스튜디오 톰보이가 만나 선보이는 2023 SUMMER 콜라보레이션 컬렉션\n\n📌 WHO IS 𝐀𝐋𝐄𝐗 𝐃𝐎𝐃𝐆𝐄?\n\n알렉스도지’는 전통적인 회화와 판화 기법에 그래픽 편집기술을 결합해 테크놀로지와 아날로그, 가상과 현실 사이를 잇는 특유의 촉감각적 화면을 구축해왔습니다."
+                    }
+                }
+            },
+            {
+                "title": "위치안내",
+                "id": 2,
+                "content": [
+                    {
+                        "src": "https://dtd31o1ybbmk8.cloudfront.net/photos/ee52a75b0f2e9cec6b9ba6d254481e45/thumb.jpg",
+                        "content": "성수역에서 도보 4분거리"
+                    }
+                ]
+            },
+            {
+                "title": "방문예약",
+                "id": 3,
+                "button":"에약",
+                "content": [
+                    {
+                        "formData": {
+                            "name": "이름",
+                            "tel": "전화번호",
+                            "visitTime": "방문시간",
+                            "timeTable": [
+                                {
+                                    "time": "11:00~13:00"
+                                },
+                                {
+                                    "time": "13:00~15:00"
+                                },
+                                {
+                                    "time": "15:00~17:00"
+                                }
+                            ],
+                            "goHome": "홈으로"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "브랜드 소개",
+                "id": 4,
+                "content": {
+                    "content": "스튜디오 톰보이 (STUDIO TOMBOY)는 신세계 인터내셔날에서 전개하는 대한민국 여성복 1세대 브랜드이며, 1977년 런칭하였다. 톰보이는 '활발하고 남성스러운 여성'이라는 뜻으로, 런칭 당시 수동적인 여성상에서 탈피해 주도적이고 적극적인 여성상을 나타낸다 2011년 신세계 인터내셔날에서 인수한 후 톰보이의 의미를 담아 지금의 '스튜디오 톰보이'라는 브랜드명으로 전개하고 있다.\n\n1. 특징\n젠더리스 ( GENDERLESS )1977년 브랜드 런칭 당시 자유로운 여성상을 표방하며 대한민국 여성 패션에서 최초로 맨투맨과 청바지를 매치하는 파격적인 패션을 선보였다. 현재는 리브랜딩 과정을 거쳐 성별과 시즌의 경계를 넘는 'GENDERLESS'를 주요한 아이덴티티로 전개하고 있다.\n오버핏 ( OVERSIZED FIT )톰보이의 시그니처인 오버사이즈드 실루엣을 가리킨다. 자켓, 팬츠, 코트, 원피스 등 다양한 아이템에서 특유의 벙벙한 핏을 적용하고 있다.\n\n2. 전개 라인\n스튜디오 라인 : 중심이 되는 여성복 라인\n아뜰리에 라인 : 고급 소재와 테일러링이 부각된 프리미엄 라인\n맨 라인 : 남성 전용 라인",
+                    "src": "https://image.newsis.com/2022/11/23/NISI20221123_0001136657_web.jpg"
+                }
+            },
+            {
+                "title": "시즌 신상 소개",
+                "id": 5,
+                "alert":"준비 중인 상품입니다.",
+                "content": [
+                    {
+                        "id": "1",
+                        "title": "체스터필드 코트",
+                        "src": "https://image.sivillage.com/upload/C00001/goods/org/637/231026006670637.jpg?RS=600&SP=1",
+                        "price": "599,000"
+                    },
+                    {
+                        "id": "2",
+                        "title": "벨티드 부클 싱글코트",
+                        "src": "https://image.sivillage.com/upload/C00001/goods/org/658/231026006670658.jpg?RS=600&SP=1",
+                        "price": "599,000"
+                    },
+                    {
+                        "id": "3",
+                        "title": "패턴 후드 가디건",
+                        "src": "https://image.sivillage.com/upload/C00001/goods/org/699/231031006706699.jpg?RS=600&SP=1",
+                        "price": "359,000"
+                    },
+                    {
+                        "id": "4",
+                        "title": "크롭 세미배기 데님팬츠",
+                        "src": "https://image.sivillage.com/upload/C00001/goods/org/849/231106006940849.jpg?RS=600&SP=1",
+                        "price": "199,000"
+                    }
+                ]
+            }
+        ],
+        "EngMenu": [
+            {
+                "title": "Popup Concept",
+                "id":1,
+                "concept": {
+                    "one": {
+                        "src": "https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/SPP3JBQ26ND4LOP7V63VXQ7WNQ.jpg",
+                        "title": "BOY MEETS TOMBOY",
+                        "content": "Studio Tomboy Man X Jannabi's Choi Jung-hoon\n\nChoi Jung-hoon, who sings with a distinctive voice, becomes the muse of Studio Tomboy Man, presenting a style that blurs the boundaries and definitions of style with a free-spirited and emotive sensibility.\n\nMeet the '22 F/W collection of Studio Tomboy Man with Choi Jung-hoon, reminiscent of a ballad, capturing the essence of warmth.\n\nThe 23 S/S campaign with Choi Jung-hoon, titled 'Here, there and everywhere,' draws inspiration from The Beatles' song, weaving a tale of spring that exists everywhere, from here to there.\n\nChoi Jung-hoon, with his multifaceted charm, expresses the diverse items of Studio Tomboy Man in a languid and relaxing mood of spring."
+                    },
+                    "two": {
+                        "src": "https://i.ytimg.com/vi/kwdRGTWzsaI/hqdefault.jpg",
+                        "title": "STUDIO TOMBOY X ALEX DODGE",
+                        "content": "Introducing the 2023 SUMMER collaboration collection between the rising New York artist 'ALEX DODGE' and Studio Tomboy.\n\n📌 WHO IS 𝐀𝐋𝐄𝐗 𝐃𝐎𝐃𝐆𝐄?\n\nAlex Dodge is an emerging artist from New York, known for combining traditional painting and printmaking techniques with graphic editing skills. He has created a distinctive, sensory visual experience that bridges the gap between technology and analog, as well as the virtual and the real."
+                    }
+                }
+            },
+            {
+                "title": "Location Information",
+                "id": 2,
+                "content": [
+                    {
+                        "src": "https://dtd31o1ybbmk8.cloudfront.net/photos/ee52a75b0f2e9cec6b9ba6d254481e45/thumb.jpg",
+                        "content": "Within a 4-minute walk from Sungsu Station."
+                    }
+                ]
+            },
+            {
+                "title": "Reservation",
+                "id": 3,
+                "button":"reservation",
+                "content": [
+                    {
+                        "formData": {
+                            "name": "Name",
+                            "tel": "Phone Number",
+                            "visitTime": "Visit Time",
+                            "timeTable": [
+                                {
+                                    "time": "11:00~13:00"
+                                },
+                                {
+                                    "time": "13:00~15:00"
+                                },
+                                {
+                                    "time": "15:00~17:00"
+                                }
+                            ],
+                            "goHome": "Home"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Brand Introduction",
+                "id": 4,
+                "content": {
+                    "content": "STUDIO TOMBOY is a 1st generation women's brand developed by Shinsegae International, launched in 1977. The word 'Tomboy' means 'lively and masculine woman', representing an active and proactive female image, breaking away from the passive female image at the time of launch. After being acquired by Shinsegae International in 2011, the brand's meaning is encapsulated in the current brand name 'STUDIO TOMBOY'.\n\n1. Characteristics\nGenderless: In 1977, the brand proclaimed a free-spirited female image, pioneering radical fashion by pairing sweatshirts and jeans for the first time in Korean women's fashion. Currently, through the rebranding process, it actively develops 'GENDERLESS' as a major identity that transcends gender and season boundaries.\nOversized Fit: Refers to Tomboy's signature oversized silhouette. It applies a distinctive loose fit to various items such as jackets, pants, coats, and dresses.\n\n2. Product Lines\nStudio Line: The main women's clothing line\nAtelier Line: A premium line highlighting high-quality materials and tail",
+                    "src": "https://image.newsis.com/2022/11/23/NISI20221123_0001136657_web.jpg"
+                }
+            },
+            {
+                "title": "New Season Item",
+                "id": 5,
+                "alert":"It's a product that's being prepared.",
+                "content": [
+                    {
+                        "id": "1",
+                        "title": "Chesterfield Coat",
+                        "src": "https://image.sivillage.com/upload/C00001/goods/org/637/231026006670637.jpg?RS=600&SP=1",
+                        "price": "599,000"
+                    },
+                    {
+                        "id": "2",
+                        "title": "Belted Buckle Single Coat",
+                        "src": "https://image.sivillage.com/upload/C00001/goods/org/658/231026006670658.jpg?RS=600&SP=1",
+                        "price": "599,000"
+                    },
+                    {
+                        "id": "3",
+                        "title": "Pattern Hood Cardigan",
+                        "src": "https://image.sivillage.com/upload/C00001/goods/org/699/231031006706699.jpg?RS=600&SP=1",
+                        "price": "359,000"
+                    },
+                    {
+                        "id": "4",
+                        "title": "Crop Semi-Baggy Denim Pants",
+                        "src": "https://image.sivillage.com/upload/C00001/goods/org/849/231106006940849.jpg?RS=600&SP=1",
+                        "price": "199,000"
+                    }
+                ]
+            }
+        ]
+    }
+]
